@@ -2,12 +2,10 @@
 A collection of python3 codes all the greedy algorithm solutions from InterviewBit.
 
 <h2> Video Explanations </h2>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLDsoMz1uLK22DTzjRDIqg8GIdKQFi1wIK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<a href="https://youtube.com/playlist?list=PLDsoMz1uLK22DTzjRDIqg8GIdKQFi1wIK">YouTube playlist</a>
 
 <h2> Written Explanations </h2>
-All the below explanations are taken from https://chaudhary1337.com/interviewbit-solutions-greedy/
+All the below explanations are taken from <a href="https://chaudhary1337.com/highest-product-interviewbit-solution-explained/">my website</a>.
 
 <h3>Easy Greedy</h3>
 
