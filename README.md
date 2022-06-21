@@ -1,4 +1,4 @@
-# InterviewBit-Greedy-Solutions
+# Greedy Algorithms for Interviews
 A collection of python3 codes all the greedy algorithm solutions from InterviewBit.
 
 <h2> Video Explanations </h2>
